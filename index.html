@@ -6,6 +6,8 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 	<title></title>
 </head>
 <body>
@@ -32,148 +34,121 @@
 		</div>
 		<div id="about">
 			<h1>O mangulicama</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nibh diam, consequat et dictum non, gravida eu elit. Duis a purus in purus dictum placerat. Duis tempor sapien elit, ac scelerisque odio ornare eu. Ut id fermentum nunc. Donec accumsan ipsum ut tortor consequat, sed ultricies purus pretium. Cras felis sapien, iaculis quis lorem faucibus, tristique condimentum nibh. Praesent vehicula lectus sed sollicitudin iaculis. Aenean dignissim lorem sit amet eros finibus, sed tempor justo pretium. Fusce mauris metus, aliquet nec auctor at, imperdiet id est.
+			<p> Mangulica je inače srpska autohtona rasa svinja, bliža divljim svinjama. Priča kaže da je knjaz Miloš 1833. godine poklonio mađarskom grofu Jožefu Arčduku nekoliko krmača. On je te krmače sorte „šumadinka“ na svom imanju ukrštao sa nekim drugim sortama svinja i tako su nastale mangulice. Meso mangulica je oduvijek bilo, a sada posebno zbog veoma malo holesterola, cijenjeno širom Evrope. Kao svoju sortu svojataju je i Mađari.</p>
 
-			Pellentesque id lacus non urna aliquam dignissim vel quis magna. Integer at scelerisque nulla. Duis pretium efficitur egestas. Nullam volutpat neque eget sapien euismod convallis. Nullam tincidunt nisi in lorem lobortis semper. Integer tellus sapien, placerat eu pulvinar eget, interdum sodales dolor. Etiam tincidunt sapien quis dui congue congue.</p>
+			<div>
+        <div>
+          <img src="img/money.png">
+          <p>Prasići mangulice: <span>7KM</span></p>
+          <p>Svinje mangulice: <span>5KM</span></p>
+        </div>  
+        <div>
+          <img src="img/numbers.png">
+          <p>Prasića mangulica: <b>36</b></p>
+          <p>Svinja mangulica: <b>50</b></p>
+        </div> 
+      </div>
 
-			<div id="about-2-img">
-				<div id="about-first-img"></div>
-				<div id="about-second-img"></div>
-			</div>
+			<p>Glava im je srednje duga, pomalo savijen profil njuške, uši srednje velike, padaju napred prekrivajući predeo lica oko očiju. Ovu rase krase crne trepavice. Minimalna broj sisa sa jedne strane je 5. Linija leđa može biti ili prava ili blago savijena. Tipično za ovu rasu je obraslost gustim, dugačkim, uvijenim čekinjama ("nalik vuni") koje su u zavisnosti od soja u sivo žućkastoj, riđoj ili crno-braon boji. Na osnovu karakteristične prekrivenosti čekinjama u germanskom govornom području je nazivaju Wollschwein “Vunasta svinja”. Čekinje se menjaju na jesen i u proleće, pri čemu su kovrdžavije tokom zimskog perioda Čekinje ih štite kako od hladnoće tako i od visokih temperatura . U Srbiji je bilo rasprotranjen običaj da se svaka kovrdžava svinja naziva mangulicom. Koža im je sivo crna, svetlija kod belog i subotičkog soja, a spoljni delovi tela, usta i ivice nosa, grudi i papci su crno pigmentisani. Tokom leta koža poprima braon sivu nijansu. Mangulicu odlikuju snažne kosti, snažna muskulatura i minđuše na vratu i kuštrav rep sa kićankom. Prasići su obeleženi prugama sličnim prasićima divljih svinja, a pruge se gube posle 10. dana kod belog soja i posle 3-4 nedelje kod lasaste mangulice. Jako je dobra majka, često ispoljava agresivnost u slučaju ugrožavanja ili uznemiravanja prasadi. Prasići prate krmaču, provode zimu napolju zajedno sa njom, kopajući i rijući zemlju u potrazi za žirom hrasta i bukve. Prirast je oko 750 gr dnevno.</p>
 
-			<p>Etiam gravida porta elit. Integer faucibus sem non metus semper cursus. In eget sollicitudin sem. Pellentesque mattis vestibulum ligula quis venenatis. Quisque iaculis lectus mauris, vitae ullamcorper enim finibus ut. Fusce tristique venenatis pharetra. Etiam vel elementum nulla.
+      <p>Mangulica je kasnostasna rasa, sporog prirasta i relativno visoke konverzije hrane, ali ima izuzetne prednosti u odnosu na druge rase u pogledu slobodnog napasanja u ekstenzivnim sistemima držanja kada njena robustnost, otpornost na bolesti i stres i izdržljivost u pogledu klimatskih uslova dolazi do izražaja. Imaju veliku potrebu za kretanjem. Snažni ekstremiteti ojačani čvrstim papcima omogućavaju joj veliku slobodu kretanja u smislu geografskih predela i tipa zemljišta. Za razliku od tzv. plemenitih rasa nemaju problema sa deformacijama lokomotornog aparata tako da opstaju bez problema na ravničarskim, planinskim i brdsko planinskim pašnjacima od Alpa i Panonije do Karpata na Istoku i Stare planine na jugoistoku Evrope.</p>
 
-			Integer tellus neque, rutrum non bibendum ac, gravida tempor diam. Donec nunc nulla, iaculis ac justo nec, facilisis tempor ante. Aenean malesuada diam et purus tempor viverra. Pellentesque quis est erat. Nulla facilisis urna consequat, fringilla turpis in, dapibus enim. Nunc pellentesque ante eget vestibulum efficitur. Phasellus magna ex, commodo quis mollis vitae, euismod quis purus. Donec ac ullamcorper erat, vitae aliquam mi.
+      <p>Mangulica bukvalno uživa u blatu i deo prostora na kome se drži treba nameniti za kaljuganje. Kaljuganje im je neophodno u smislu termoregulacije, ali i zaštite od ektoparazita. Pri ekstenzivnom držanju imaju potrebe za jednostavnim skloništem, od kiše i snega, što naročito važi za bremenite životinje. Nedovoljno skloništa i nedovoljno prihranjivanje u zimskom periodu može dovesti do kanibalizma odn. infantofagije od strane drugih grla.</p>
 
-			Nunc sem velit, facilisis at vehicula quis, dapibus eu turpis. Praesent quis felis leo. Cras rhoncus et nulla vel interdum. Vestibulum eget elementum quam. Aenean pellentesque, dui eget placerat mollis, lorem sapien pulvinar sapien, sed viverra neque lorem a mi. Fusce rhoncus semper feugiat. Donec porta purus quis pharetra egestas. Phasellus congue mi et metus eleifend vestibulum. Etiam maximus tellus id tincidunt hendrerit.
+      <p>Prohtevi za hranom su im skromni, ali ipak traže raznolikost što u slobodnom napasanju nije ograničavajući faktor. Dobro iskorišćavaju to što nađu u prirodi, a sa dodavanjem koncentrovane hrane i ograničavanjem prostora izuzetno su podložne tovljenju i gomilanju masnog tkiva pri čemu starija grla dostižu masu od 200 i više kg. Zbog izuzetno sporog prirasta i visoke konverzije hrane, mangulica može biti ekonomična isključivo ukoliko se primenjuje slobodno napasanje. Bez dodatne prihrane dostižu oko 80 kg za godinu dana, što se adekvatnim prihranjivanjem može uvećati.
 			</p>
+      <p>Meso mangulica spada u grupu mesa sa većim sadržajem masti. Sveže meso je tamnije od mesa drugih rasa, snažnog mirisa, sočno i nežne građe Debljina slanine na leđima je oko 6cm, ali nakon dostizanja težine od 120kg kod krmača i 140 kg kod nerastova dalji prirast se ostvaruje prevashodno stvaranjem masnih naslaga i tada pri ograničenom kretanju dostižu i do 250 - 300kg, a debljina slanine na ležima dostigne i do 25cm. Za razliku od Belgijskog landrasa i pietrena, kod mangulica nije zabeležena sklonost ka izuzetnoj osetljive na stress i BMV (bledo mekano vodenasto meso). Na osnovu podataka iz Zasavice, Naučni institut za ratarstvo i povrtarstvo u Novom Sadu obavio je ispitivanja mesa mangulica. Rezultati su pokazali da prosečan sadržaj masti u uzorcima mesa iznosi 33,25%, a u slanini I do 86,21%. Konzumiranje ovog mesa dovodi do stvaranja tzv. HDL holesterola “pozitivnog holesterola” što je pogodno sa osobe sa povišenim nivoom masnoća u krvi. U pogledu holesterola meso mangulica pokazuje značajne razlike u odnosu na uzorke mesa ostalih svinja na našem području. Sadržaj holesterola u mesu mangulica je niži za 50-75% u odnosu na druge rase. Mangulica ima 42,5 mg holesterola u uzorku kremenadle i 45,07mg u uzorku sa vrata dok kod ostalih naših svinja iznosi 65-72 mg. Meso mangulice se uspešno koristi u proizvodnji kobasica (sušenih i dimljenih).</p>
 		</div>
 		<div id="gallery">
 			<h1>Galerija</h1>
 			<ul>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814785/photostream-photos/DSC05466_kwlv0n.jpg" alt="A Toyota Previa covered in graffiti" loading="lazy">
+    <img src="img/gallery/1.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814785/photostream-photos/DSC05621_zgtcco.jpg" alt="Interesting living room light through a window" loading="lazy">
+    <img src="img/gallery/2.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814785/photostream-photos/DSC05513_gfbiwi.jpg" alt="Sara on a red bike" loading="lazy">
+    <img src="img/gallery/3.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814785/photostream-photos/DSC05588_nb0dma.jpg" alt="XOXO venue in between talks" loading="lazy">
+    <img src="img/gallery/4.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814785/photostream-photos/DSC05459_ziuomy.jpg" alt="Trees lit by green light during dusk" loading="lazy">
+    <img src="img/gallery/5.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814785/photostream-photos/DSC05586_oj8jfo.jpg" alt="Portrait of Justin Pervorse" loading="lazy">
+    <img src="img/gallery/6.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814785/photostream-photos/DSC05465_dtkwef.jpg" alt="Empty bike racks outside a hotel" loading="lazy">
+   <img src="img/gallery/7.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814785/photostream-photos/DSC05626_ytsf3j.jpg" alt="Heavy rain on an intersection" loading="lazy">
+    <img src="img/gallery/8.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814785/photostream-photos/DSC05449_l9kukz.jpg" alt="Payam Rajabi eating peanut chicken" loading="lazy">
+    <img src="img/gallery/9.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814785/photostream-photos/DSC05544_aczrb9.jpg" alt="Portland skyline sunset" loading="lazy">
+    <img src="img/gallery/10.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814785/photostream-photos/DSC05447_mvffor.jpg" alt="Interior at Nong's" loading="lazy">
+    <img src="img/gallery/11.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814784/photostream-photos/DSC05501_yirmq8.jpg" alt="A kimchi hotdog on a plate" loading="lazy">
+   <img src="img/gallery/12.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814784/photostream-photos/DSC05624_f5b2ud.jpg" alt="Restaurant window with graffiti saying 'water'" loading="lazy">
+    <img src="img/gallery/13.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814784/photostream-photos/DSC05623_dcpfva.jpg" alt="Portrait of Jeremy Tanner" loading="lazy">
+    <img src="img/gallery/14.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814784/photostream-photos/DSC05515_d2gzut.jpg" alt="Jordan, Sarah and Sara on red bikes, waiting" loading="lazy">
+   <img src="img/gallery/15.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814784/photostream-photos/DSC05581_ceocwv.jpg" alt="Barista wearing a hoodie saying 'Coffee Should Be Dope.'" loading="lazy">
+    <img src="img/gallery/16.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814784/photostream-photos/DSC05517_ni2k0p.jpg" alt="Payam crossing the street on a bike" loading="lazy">
+    <img src="img/gallery/17.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814783/photostream-photos/DSC05620_qfwycq.jpg" alt="Lit trees reflected in a puddle" loading="lazy">
+    <img src="img/gallery/18.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814783/photostream-photos/DSC05462_b33uvp.jpg" alt="Moody chair in my hotel room" loading="lazy">
+    <img src="img/gallery/19.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814783/photostream-photos/DSC05489_mqzktl.jpg" alt="Tom and Jenn wearing sunglasses" loading="lazy">
+    <img src="img/gallery/20.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814783/photostream-photos/DSC05476_dlkjza.jpg" alt="Jordan and Sarah in front of a restaurant window" loading="lazy">
+    <img src="img/gallery/21.jpg" loading="lazy">
   </li>
   <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814783/photostream-photos/DSC05497_abbd3c.jpg" alt="Sarah reading the Double Dragon drink menu" loading="lazy">
+    <img src="img/gallery/22.jpg" loading="lazy">
   </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814782/photostream-photos/DSC05487_fcdv7t.jpg" alt="Beer brewing equipment" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814782/photostream-photos/DSC05493_q6njbk.jpg" alt="2 cocktails in the making" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814782/photostream-photos/DSC05446_xj60ff.jpg" alt="Beverage fridge at Nong's" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814782/photostream-photos/DSC05559_hu49zx.jpg" alt="Wood structure reflections" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814782/photostream-photos/DSC05482_dtrj02.jpg" alt="Colorful garden equipment in a shop window" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814782/photostream-photos/DSC05565_dx5rp6.jpg" alt="Sarah in front of a wooden wall" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814782/photostream-photos/DSC05613_o9af2z.jpg" alt="A neon banana" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814782/photostream-photos/DSC05469_fdxdzx.jpg" alt="Matt Sacks smiling while we're waiting for food" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814782/photostream-photos/DSC05558_yq2tnz.jpg" alt="A fixed-gear bike under some bright lights" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814781/photostream-photos/DSC05483_dyiuya.jpg" alt="Panic's PlayDate being held by a tester" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814781/photostream-photos/DSC05468_xzbtcd.jpg" alt="Window reflection of me and Payam" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814781/photostream-photos/DSC05457_nloycw.jpg" alt="Upside down shopping carts" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814781/photostream-photos/DSC05522_mekpec.jpg" alt="Payam riding a bike with no hands" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814781/photostream-photos/DSC05611_lbwtmk.jpg" alt="A kid's pillow left on the bench of a bus stop" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814781/photostream-photos/DSC05572_xfvij7.jpg" alt="My reflection in the mirror" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814781/photostream-photos/DSC05481_gnljae.jpg" alt="Jordan holding an iced coffee against his head to cool down" loading="lazy">
-  </li>
-  <li>
-    <img src="https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1568814781/photostream-photos/DSC05480_zkw8sm.jpg" alt="Jordan and Sarah looking at the menu in a coffee shop" loading="lazy">
-  </li>
+  
   <li></li>
 </ul>
-		</div>
+</div>
+
 		<div id="contact">
-			<h1>Kontakt</h1>
+      <h1>Kontakt</h1>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1001.1548999771665!2d17.303981959564588!3d45.068741797057214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDXCsDA0JzA3LjQiTiAxN8KwMTgnMTYuOCJF!5e1!3m2!1ssr!2sba!4v1606331362411!5m2!1ssr!2sba" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+      <form action="" method="POST" novalidate="novalidate">
+    <fieldset>
+      <legend>Napišite poruku:</legend>
+    <div class="inputs">
+              <input type="text" id="imeiprezime" placeholder="Vaše ime i prezime">
+              <input type="text" id="brojtelefona" placeholder="Vaš broj telefona">
+              <input type="email" id="email" placeholder="Vaš e-mail">
+             </div>
+              <textarea name="#" id="poruka" cols="30" rows="10" placeholder="Poruka"></textarea>
+              <input type="submit" value="Pošalji" id="dugme">
+              </fieldset>
+    </form>
+    <p>Ili nazovite preko telefona: +38765989103</p>
 		</div>
 	</main>
 	<script
