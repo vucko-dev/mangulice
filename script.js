@@ -7,6 +7,17 @@ $(document).ready(function(){
     return true;
   }
 }
+	function Hide(){
+		$("nav").not(":animated").toggle(200);
+	
+		$("main").css({
+			'display':'block',
+			'width':'100%'
+		});
+		$("main>img").css({
+			'display':'block'
+		});
+	}
 	$("main>img").on('click',function(){
 		if($(window).width()>768){
 		$("main>img").css({
@@ -36,6 +47,7 @@ $(document).ready(function(){
 		$("nav").not(":animated").toggle(200);
 	
 		$("main").css({
+			'display':'block',
 			'width':'100%'
 		});
 		$("main>img").css({
@@ -55,6 +67,7 @@ $(document).ready(function(){
 		});
 		$("a[href='#about']").addClass('active');
 		$("a[href='#gallery'],a[href='#contact']").removeClass('active');
+		Hide();
 	});
 	$("a[href='#layer-main']").on('click',function(event){
 				event.preventDefault();
@@ -67,6 +80,7 @@ $(document).ready(function(){
 			'display':'table'
 		});
 		$("a[href='#about'], a[href='#gallery'], a[href='#contact']").removeClass('active');
+		Hide();
 	});
 	$("a[href='#gallery']").on('click',function(event){
 				event.preventDefault();
@@ -81,6 +95,7 @@ $(document).ready(function(){
 		});
 		$("a[href='#gallery']").addClass('active');
 		$("a[href='#about'],a[href='#contact']").removeClass('active');
+		Hide();
 	});
 	$("a[href='#contact']").on('click',function(event){
 				event.preventDefault();
@@ -94,6 +109,7 @@ $(document).ready(function(){
 		});
 		$("a[href='#contact']").addClass('active');
 		$("a[href='#about'],a[href='#gallery']").removeClass('active');
+		Hide();
 	});
 	 $('#dugme').on('click',function(event){
     	event.preventDefault();

@@ -48,7 +48,7 @@ nav>div>a>img{
 }
 
 nav>div>ul{
-	padding:40% 0;
+	padding:20% 0;
 }
 
 nav>div>ul>li{
@@ -327,5 +327,21 @@ letter-spacing: 2px;
 	padding: 0;
 	vertical-align: middle;
 	text-align: center;
+}
+	#about>h1,#contact>h1,#gallery>h1{
+		font-size: 24px;
+	}
+	.inputs,textarea{
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 425px){
+	#about>div>div{
+		width: 100%;
+	}
+	iframe{
+		padding:0 50px;
+	}
 }
 }
